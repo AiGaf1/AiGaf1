@@ -40,10 +40,10 @@ Git · Linux · Docker · Jupyter
 
 ### Education
 
-**PhD — Machine Learning & Explainable AI**
+**PhD in Machine Learning & Explainable AI**
 Université Catholique de Lille, France
 
-**MSc — Machine Learning & Data Mining**
+**MSc in Machine Learning & Data Mining**
 Université Jean Monnet Saint-Étienne, France
 
 ### Selected Research
