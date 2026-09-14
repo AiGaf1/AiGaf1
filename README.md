@@ -1,24 +1,67 @@
-<h1 align="center">Hi 👋, I'm Aidar Gaffarov</h1>
-<h3 align="center">A passionate Machine Learning Engineer from France/Russia</h3>
+<h1 align="center">Aidar Gaffarov</h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aigaf1&label=Profile%20views&color=0e75b6&style=flat" alt="aigaf1" /> </p>
-
-- 🔭 I completed my Master's degree [at Machine Learning & Data Mining](https://www.univ-st-etienne.fr/en/index.html)
-
-- 🌱 I’m currently learning **new distillation methods for NN**
-
-- 📝 I regularly write articles on [https://scholar.google.co.in/citations?hl=en&pli=1&user=Awaas00AAAAJ](https://scholar.google.co.in/citations?hl=en&pli=1&user=Awaas00AAAAJ)
-
-- 💬 Ask me about **optimization of NN**
-
-- 📫 How to reach me **aidar.gaffaroff@gmail.com**
-
-- 💬 Languages **English, French and Russian**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aidar-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aidar-g-239270190/" height="30" width="40" /></a>
+<p align="center">
+  <strong>PhD Researcher · Machine Learning · Time Series · Behavioral Biometrics · Trustworthy AI</strong>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aidar-g-">LinkedIn</a> ·
+  <a href="https://scholar.google.co.in/citations?hl=en&pli=1&user=Awaas00AAAAJ">Google Scholar</a> ·
+  <a href="mailto:aidar.gaffaroff@gmail.com">Email</a>
+</p>
+
+---
+
+### About
+
+PhD researcher in **Machine Learning and Explainable AI** at Université Catholique de Lille.
+
+My research focuses on **continuous authentication from behavioral biometrics**, with an emphasis on **time-series representation learning, sequential anomaly detection, user profiling, and interpretable AI**.
+
+### Research
+
+* **Continuous Authentication & Behavioral Biometrics**
+* **Time-Series Representation Learning**
+* **Sequential Anomaly Detection**
+* **Explainable & Trustworthy AI**
+* **User Profiling & Representation Learning**
+* **Decision Support for Cybersecurity**
+
+### Technical Stack
+
+**Languages & ML**
+Python · PyTorch · Scikit-learn · NumPy · Pandas
+
+**Methods**
+Deep Learning · Time Series · Anomaly Detection · Representation Learning · Explainable AI
+
+**Tools**
+Git · Linux · Docker · Jupyter
+
+### Education
+
+**PhD — Machine Learning & Explainable AI**
+Université Catholique de Lille, France
+
+**MSc — Machine Learning & Data Mining**
+Université Jean Monnet Saint-Étienne, France
+
+### Selected Research
+
+🔐 **Continuous Authentication**
+Machine learning methods for detecting anomalous user behavior from temporal behavioral biometrics.
+
+⏱️ **Time-Series Learning**
+Representation learning and sequential modeling for behavioral data.
+
+🧠 **Explainable AI**
+Interpretable user representations and decision-support methods for trustworthy authentication systems.
+
+---
+
+<p align="center">
+  <i>Machine Learning · Time Series · Behavioral Biometrics · Explainable AI</i>
+</p>
+
 
 
