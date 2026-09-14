@@ -48,7 +48,7 @@ Université Jean Monnet Saint-Étienne, France
 
 ### Selected Research
 
-🔐 **Continuous Authentication**
+🔐 **Anomaly Detection**
 Machine learning methods for detecting anomalous user behavior from temporal behavioral biometrics.
 
 ⏱️ **Time-Series Learning**
@@ -59,9 +59,6 @@ Interpretable user representations and decision-support methods for trustworthy 
 
 ---
 
-<p align="center">
-  <i>Machine Learning · Time Series · Behavioral Biometrics · Explainable AI</i>
-</p>
 
 
 
